@@ -1,4 +1,4 @@
-                                                                   #Pizza Sales Dashboard
+<h1 align="center">Pizza Sales Dashboard</h1>
 
 **Problem Statement:**
 

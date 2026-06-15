@@ -16,3 +16,5 @@ drive the most revenue.
 * Customers prefer to order the most on weekends, specifically on Friday and Saturday evenings.
 
 * July and January are the peak months for total orders.
+
+  ![Dashboard Preview](Pizza_sales_dashboard.png)

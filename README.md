@@ -17,4 +17,8 @@ drive the most revenue.
 
 * July and January are the peak months for total orders.
 
+
+
+
+
   ![Dashboard Preview](Pizza_sales_dashboard.png)
